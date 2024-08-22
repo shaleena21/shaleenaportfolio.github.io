@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>Your Portfolio</title>
+</head>
+<body>
+<header>
+<h1>Shaleena</h1>
+</header>
+<main>
+<section class="profile">
+<div class="photo">
+<img src="picture1.jpeg" alt="Your Photo">
+</div>
+<div class="bio">
+<h2>About Me</h2>
+<p>
+My name is Shaleena. I have interest in coding , dancing and swiming. More intrested in social activities like campaigns.
+</p>
+</div>
+</main>
+<br>
+    <table border="1">
+        <tr>
+            <th>qualification</th>
+            <th>marks</th>
+        </tr>
+        <tr>
+            <td>SSLC marks</td>
+            <td>93%</td>
+        </tr>
+        <tr>
+            <td>2nd puc</td>
+            <td>98%</td>
+        </tr>
+    </table>
+    <br>
+    <table border="1">
+        <tr>
+            <th>soft skills</th>
+            <th>extra caricullar</th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>c languaging</li>
+                    <li>phython programing</li>
+                    <li>jawa programming</li>
+                </ul>
+            </td>
+        
+        <td>
+            <ul>
+                <li>dancing
+                </li>
+                <li>swimming</li>
+                <li>drawing</li>
+            </ul>
+        </td>
+</tr>
+        </table>
+
+
+</section>
+<footer>
+FRONT END WEB DEVELOPMENT CS1102-1 Lab Manual
+<p>&copy; 2023 Your Name. All rights reserved.</p>
+</footer>
+</body>
+</html>
